@@ -1,4 +1,4 @@
-package com.mjq.comunnication.ThreadLocalTest;
+package com.mjq.comunnication.threadlocaltest;
 
 public class ThreadB extends Thread {
     /**

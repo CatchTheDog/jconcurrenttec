@@ -4,7 +4,7 @@ package com.mjq.comunnication.singleton_1;
  * 单例模式
  */
 public class MyObject {
-    private static MyObject myObject;
+    volatile private static MyObject myObject;
 
     private MyObject() {
     }
